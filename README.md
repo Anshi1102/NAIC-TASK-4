@@ -5,6 +5,6 @@ This package includes a logo design, business card, and a letterhead for a ficti
 
 Logo Design: https://www.figma.com/design/DPY0pEun4SqUoOmG3N8THp/Logo---LumoTech?m=auto&t=2a0QjYyzWTp1bHqJ-1  
 
-Business Card: https://www.figma.com/design/zHoUFMTSsW5z3eRRBypp1j/Business-Card---LumoTech?m=auto&t=2P3CN2Z3DSCvg2Ok-6  
+Business Card: https://www.figma.com/proto/zHoUFMTSsW5z3eRRBypp1j/Business-Card---LumoTech?node-id=1-2&p=f&t=tGMYIzG0Dr1NTmbp-0&scaling=min-zoom&content-scaling=fixed&page-id=0%3A1  
 
 Letterhead: https://www.figma.com/design/fi2INaL9aS32ZfhajC85ws/Letterhead---LumoTech?node-id=0-1&t=2P3CN2Z3DSCvg2Ok-1  
